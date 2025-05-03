@@ -6,7 +6,7 @@ A natural-language assistant to manage OpenStack-based cloud infrastructure usin
 
 ## 📽️ Demo Video
 
-[Watch Demo Video]( [https://drive.google.com/file/d/1dwCo_um8cmvuZLQHHj0tbBAOsKWC0RTl/view?usp=sharing] )
+[Watch Demo Video](https://drive.google.com/file/d/1dwCo_um8cmvuZLQHHj0tbBAOsKWC0RTl/view?usp=sharing)
 
 ---
 
